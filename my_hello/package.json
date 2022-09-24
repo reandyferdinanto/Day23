@@ -1,0 +1,20 @@
+{
+  "name": "my_hello",
+  "version": "1.0.0",
+  "description": "Post-Class Assignment Day23",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "success"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reandyferdinanto/Day23.git"
+  },
+  "author": "Reandy Ferdinanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reandyferdinanto/Day23/issues"
+  },
+  "homepage": "https://github.com/reandyferdinanto/Day23#readme"
+}
