@@ -1,0 +1,25 @@
+{
+  "name": "user_management",
+  "version": "1.0.0",
+  "description": "user management",
+  "main": "users.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reandyferdinanto/Day23.git"
+  },
+  "keywords": [
+    "user"
+  ],
+  "author": "Reandy Ferdinanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reandyferdinanto/Day23/issues"
+  },
+  "homepage": "https://github.com/reandyferdinanto/Day23#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
